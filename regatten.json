@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Ostertraingslager",
+    "results": {
+      "SCZ": [1, 2, 18],
+      "SVAG": [4, 5, 8],
+      "MYCR": [7, 12, 15],
+      "WSVLS": [14, 19, 27]
+    },
+    "competitors": 30
+  },
+  {
+    "name": "TL Neuruppin",
+    "results": {
+      "RSN": [2, 7, 8],
+      "SVKKS": [4, 6, 9]
+    },
+    "competitors": 11
+  },
+  {
+    "name": "Bernsteinpokal",
+    "results": {},
+    "competitors": 1
+  },
+  {
+    "name": "1. WMA",
+    "results": {
+      "SVAG": [2, 10, 11],
+      "SCZ": [3, 4, 27],
+      "RSN": [6, 17, 18],
+      "MYCR": [15, 16, 20],
+      "SVKKS": [9, 14, 28],
+      "SVEG": [19, 24, 25]
+    },
+    "competitors": 30
+  },
+  {
+    "name": "2. WMA",
+    "results": {
+      "SVAG": [1, 8, 11],
+      "SCZ": [2, 3, 16],
+      "RSN": [6, 13, 22],
+      "MYCR": [17, 18, 31],
+      "SVKKS": [9, 10, 33],
+      "SVEG": [4, 19, 27]
+    },
+    "competitors": 33
+  },
+  {
+    "name": "Frühjahr",
+    "results": {
+      "SCZ": [1, 4, 8],
+      "SVEG": [5, 6, 10],
+      "SVM": [2, 3, 13]
+    },
+    "competitors": 14
+  },
+  {
+    "name": "Werlcup",
+    "results": {
+      "SVAG": [2, 6, 9],
+      "SCZ": [4, 7, 11],
+      "BSVADW": [10, 13, 17]
+    },
+    "competitors": 17
+  },
+  {
+    "name": "Malchow",
+    "results": {
+      "MYCR": [3, 4, 6],
+      "SVEG": [10, 13, 15],
+      "SVM": [1, 5, 10]
+    },
+    "competitors": 16
+  },
+  {
+    "name": "Parzival",
+    "results": {
+      "SVAG": [2, 5, 7],
+      "SCZ": [4, 17, 25],
+      "RSN": [3, 8, 13],
+      "SVKKS": [6, 10, 28],
+      "SVEG": [11, 18, 23],
+      "SCR": [1, 9, 24],
+      "SCP": [19, 21, 27]
+    },
+    "competitors": 29
+  },
+  {
+    "name": "G.Geier",
+    "results": {
+      "SCZ": [4, 16, 21],
+      "RSN": [2, 20, 29],
+      "SCR": [3, 7, 12],
+      "WSVLS": [19, 24, 33]
+    },
+    "competitors": 38
+  },
+  {
+    "name": "City Cup",
+    "results": {
+      "SVAG": [1, 2, 4],
+      "MYCR": [3, 6, 7],
+      "RSC 92": [9, 11, 12]
+    },
+    "competitors": 13
+  },
+  {
+    "name": "SVAG",
+    "results": {
+      "SVAG": [1, 4, 5],
+      "SVKKS": [6, 14, 27],
+      "SVEG": [15, 23, 25]
+    },
+    "competitors": 29
+  },
+  {
+    "name": "Güstrow",
+    "results": {
+      "SCZ": [3, 4, 16],
+      "SVEG": [7, 8, 11],
+      "SCR": [1, 2, 9],
+      "SVM": [5, 6, 10]
+    },
+    "competitors": 21
+  },
+  {
+    "name": "LJMBG",
+    "results": {},
+    "competitors": 0
+  },
+  {
+    "name": "LJMMV",
+    "results": {},
+    "competitors": 0
+  },
+  {
+    "name": "Stausee",
+    "results": {},
+    "competitors": 0
+  },
+  {
+    "name": "Bl.Band",
+    "results": {},
+    "competitors": 0
+  },
+  {
+    "name": "BjüJM",
+    "results": {},
+    "competitors": 0
+  },
+  {
+    "name": "Messecup",
+    "results": {},
+    "competitors": 0
+  },
+  {
+    "name": "IDM",
+    "results": {},
+    "competitors": 0
+  },
+  {
+    "name": "Nebel",
+    "results": {},
+    "competitors": 0
+  }
+]
