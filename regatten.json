@@ -126,8 +126,12 @@
   },
   {
     "name": "LJMBG",
-    "results": {},
-    "competitors": 0
+    "results": {
+      "SCZ": [1, 2, 13],
+      "WSVLS": [7, 10, 16],
+      "SCP": [11, 12, 18]
+    },
+    "competitors": 18
   },
   {
     "name": "LJMMV",
