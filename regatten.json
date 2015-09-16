@@ -135,8 +135,10 @@
   },
   {
     "name": "Stausee",
-    "results": {},
-    "competitors": 0
+    "results": {
+      "WSVLS": [3, 4, 8]
+    },
+    "competitors": 12
   },
   {
     "name": "Bl.Band",
