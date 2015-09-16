@@ -42,8 +42,6 @@ angular.module('championship', [])
                 clubs[club].length = regattenArray.length;
             });
 
-            console.log(clubs);
-
             // Clubs sortieren:
             // Vereine mit 5 Wertungen:
             var platz = 1;
@@ -71,7 +69,6 @@ angular.module('championship', [])
                     clubs[club.name].sort = platz++;
                 });
             }
-            console.log(clubs);
             angular.forEach(clubs, function(club, name) {
                 club.name = name;
                 $scope.clubs.push(club);
