@@ -142,8 +142,12 @@
   },
   {
     "name": "Bl.Band",
-    "results": {},
-    "competitors": 0
+    "results": {
+      "MYCR": [1, 5, 7],
+      "SVAG": [2, 3, 4],
+      "RSC 92": [6, 10, 11]
+    },
+    "competitors": 12
   },
   {
     "name": "BjüJM",
