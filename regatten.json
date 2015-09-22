@@ -151,8 +151,12 @@
   },
   {
     "name": "BjüJM",
-    "results": {},
-    "competitors": 0
+    "results": {
+      "RSN": [1, 6, 7],
+      "SCZ": [2, 3, 4],
+      "SCP": [9, 11, 12]
+    },
+    "competitors": 12
   },
   {
     "name": "Messecup",
