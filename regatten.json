@@ -160,8 +160,10 @@
   },
   {
     "name": "Messecup",
-    "results": {},
-    "competitors": 0
+    "results": {
+      "RSC 92": [3, 4, 5]
+    },
+    "competitors": 5
   },
   {
     "name": "IDM",
