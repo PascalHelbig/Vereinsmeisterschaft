@@ -167,8 +167,15 @@
   },
   {
     "name": "IDM",
-    "results": {},
-    "competitors": 0
+    "results": {
+      "SCR": [1, 4, 5],
+      "SCZ": [2, 3, 13],
+      "SVAG": [6, 10, 19],
+      "MYCR": [7, 11, 17],
+      "SVEG": [9, 25, 30],
+      "RSN": [15, 22, 33]
+    },
+    "competitors": 41
   },
   {
     "name": "Nebel",
