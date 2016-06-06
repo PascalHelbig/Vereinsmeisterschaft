@@ -1,192 +1,65 @@
 [
   {
-    "name": "Ostertraingslager",
+    "name": "TL Rerik",
     "results": {
-      "SCZ": [1, 2, 18],
-      "SVAG": [4, 5, 8],
-      "MYCR": [7, 12, 15],
-      "WSVLS": [14, 19, 27]
+      "SCZ": [1, 5, 20],
+      "SVAG": [3, 9, 15],
+      "WSVLS": [4, 24, 26],
+      "SVM": [6, 14, 30],
+      "SCP": [11, 17, 22]
     },
     "competitors": 30
   },
   {
-    "name": "TL Neuruppin",
+    "name": "Trainingsregatta",
     "results": {
-      "RSN": [2, 7, 8],
-      "SVKKS": [4, 6, 9]
-    },
-    "competitors": 11
-  },
-  {
-    "name": "Bernsteinpokal",
-    "results": {},
-    "competitors": 1
-  },
-  {
-    "name": "1. WMA",
-    "results": {
-      "SVAG": [2, 10, 11],
-      "SCZ": [3, 4, 27],
-      "RSN": [6, 17, 18],
-      "MYCR": [15, 16, 20],
-      "SVKKS": [9, 14, 28],
-      "SVEG": [19, 24, 25]
-    },
-    "competitors": 30
-  },
-  {
-    "name": "2. WMA",
-    "results": {
-      "SVAG": [1, 8, 11],
-      "SCZ": [2, 3, 16],
-      "RSN": [6, 13, 22],
-      "MYCR": [17, 18, 31],
-      "SVKKS": [9, 10, 33],
-      "SVEG": [4, 19, 27]
-    },
-    "competitors": 33
-  },
-  {
-    "name": "Frühjahr",
-    "results": {
-      "SCZ": [1, 4, 8],
-      "SVEG": [5, 6, 10],
-      "SVM": [2, 3, 13]
-    },
-    "competitors": 14
-  },
-  {
-    "name": "Werlcup",
-    "results": {
-      "SVAG": [2, 6, 9],
-      "SCZ": [4, 7, 11],
-      "BSVADW": [10, 13, 17]
-    },
-    "competitors": 17
-  },
-  {
-    "name": "Malchow",
-    "results": {
-      "MYCR": [3, 4, 6],
-      "SVEG": [10, 13, 15],
-      "SVM": [1, 5, 10]
-    },
-    "competitors": 16
-  },
-  {
-    "name": "Parzival",
-    "results": {
-      "SVAG": [2, 5, 7],
-      "SCZ": [4, 17, 25],
-      "RSN": [3, 8, 13],
-      "SVKKS": [6, 10, 28],
-      "SVEG": [11, 18, 23],
-      "SCR": [1, 9, 24],
-      "SCP": [19, 21, 27]
-    },
-    "competitors": 29
-  },
-  {
-    "name": "G.Geier",
-    "results": {
-      "SCZ": [4, 16, 21],
-      "RSN": [2, 20, 29],
-      "SCR": [3, 7, 12],
-      "WSVLS": [19, 24, 33]
-    },
-    "competitors": 38
-  },
-  {
-    "name": "City Cup",
-    "results": {
-      "SVAG": [1, 2, 4],
-      "MYCR": [3, 6, 7],
-      "RSC 92": [9, 11, 12]
+      "SVEG": [5, 6, 8]
     },
     "competitors": 13
   },
   {
-    "name": "SVAG",
+    "name": "Bernsteinpokal",
     "results": {
-      "SVAG": [1, 4, 5],
-      "SVKKS": [6, 14, 27],
-      "SVEG": [15, 23, 25]
+      "SCR": [1, 12, 13],
+      "SVAG": [2, 7, 8]
     },
-    "competitors": 29
+    "competitors": 15
   },
   {
-    "name": "Güstrow",
+    "name": "Ostseecup",
     "results": {
-      "SCZ": [3, 4, 16],
-      "SVEG": [7, 8, 11],
-      "SCR": [1, 2, 9],
-      "SVM": [5, 6, 10]
-    },
-    "competitors": 21
-  },
-  {
-    "name": "LJMBG",
-    "results": {
-      "SCZ": [1, 2, 13],
-      "WSVLS": [7, 10, 16],
-      "SCP": [11, 12, 18]
-    },
-    "competitors": 18
-  },
-  {
-    "name": "Stausee",
-    "results": {
-      "WSVLS": [3, 4, 8]
-    },
-    "competitors": 12
-  },
-  {
-    "name": "Bl.Band",
-    "results": {
-      "MYCR": [1, 5, 7],
-      "SVAG": [2, 3, 4],
-      "RSC 92": [6, 10, 11]
-    },
-    "competitors": 12
-  },
-  {
-    "name": "BjüJM",
-    "results": {
-      "RSN": [1, 6, 7],
-      "SCZ": [2, 3, 4],
-      "SCP": [9, 11, 12]
-    },
-    "competitors": 12
-  },
-  {
-    "name": "Messecup",
-    "results": {
-      "RSC 92": [3, 4, 5]
-    },
-    "competitors": 5
-  },
-  {
-    "name": "IDM",
-    "results": {
-      "SCR": [1, 4, 5],
-      "SCZ": [2, 3, 13],
-      "SVAG": [6, 10, 19],
-      "MYCR": [7, 11, 17],
-      "SVEG": [9, 25, 30],
-      "RSN": [15, 22, 33]
-    },
-    "competitors": 41
-  },
-  {
-    "name": "Nebel",
-    "results": {
-      "SCR": [1, 3, 6],
-      "SVEG": [4, 12, 13],
-      "SVM": [5, 8, 17],
-      "SVKKS": [7, 21, 24],
-      "MYCR": [10, 15, 16],
-      "PSF": [14, 18, 19]
+      "RSN": [3, 8, 15],
+      "MYCR": [5, 6, 24],
+      "SVAG": [9, 10, 11],
+      "SCP": [14, 19, 21],
+      "RSC92": [20, 22, 25]
     },
     "competitors": 25
+  },
+  {
+    "name": "Frühjahrscup",
+    "results": {
+      "SVEG": [2, 4, 5],
+      "SVM": [6, 7, 9],
+      "PSF": [14, 17, 18]
+    },
+    "competitors": 19
+  },
+  {
+    "name": "Fleesensee-Pokal",
+    "results": {
+      "SVEG": [1, 6, 9],
+      "SVKKS": [3, 19, 21],
+      "SVM": [4, 5, 10],
+      "PSF": [14, 24, 25]
+    },
+    "competitors": 25
+  },
+  {
+    "name": "Freundschaftsregatta",
+    "results": {
+      "RSN": [1, 2, 3]
+    },
+    "competitors": 11
   }
 ]
