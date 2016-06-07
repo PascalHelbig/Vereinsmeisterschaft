@@ -11,14 +11,14 @@
     "competitors": 30
   },
   {
-    "name": "Trainingsregatta",
+    "name": "Trainings Regatta",
     "results": {
       "SVEG": [5, 6, 8]
     },
     "competitors": 13
   },
   {
-    "name": "Bernsteinpokal",
+    "name": "Bernstein",
     "results": {
       "SCR": [1, 12, 13],
       "SVAG": [2, 7, 8]
@@ -26,7 +26,7 @@
     "competitors": 15
   },
   {
-    "name": "Ostseecup",
+    "name": "Ostsee",
     "results": {
       "RSN": [3, 8, 15],
       "MYCR": [5, 6, 24],
@@ -56,7 +56,7 @@
     "competitors": 25
   },
   {
-    "name": "Freundschaftsregatta",
+    "name": "Wusterhausen",
     "results": {
       "RSN": [1, 2, 3]
     },
@@ -102,7 +102,7 @@
     "results": [],
     "competitors": 0
   }, {
-    "name": "Kreismeisterschaft",
+    "name": "Kreismeister",
     "results": [],
     "competitors": 0
   }, {
