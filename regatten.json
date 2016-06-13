@@ -63,8 +63,12 @@
     "competitors": 11
   }, {
     "name": "Goldener Geier",
-    "results": [],
-    "competitors": 0
+    "results": {
+      "RSN": [1, 4, 8],
+      "SVEG": [7, 11, 12],
+      "WSVLS": [10, 15, 16]
+    },
+    "competitors": 27
   }, {
     "name": "Eurawasser",
     "results": [],
