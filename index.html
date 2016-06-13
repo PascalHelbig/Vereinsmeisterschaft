@@ -37,7 +37,7 @@
                 <td>{{($index+1)}}.</td>
                 <td>{{club.name}}</td>
                 <td>{{club.length}}</td>
-                <td><strong>{{club.points | number:2}}</strong></td>
+                <td style="text-align: right;"><strong>{{club.points | number:2}}</strong></td>
                 <td ng-repeat="(key, regatta) in regatten">
                     {{club[key].rankings.join()}}<br>
                     <strong>
