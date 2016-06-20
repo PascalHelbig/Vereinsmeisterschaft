@@ -71,8 +71,14 @@
     "competitors": 27
   }, {
     "name": "Eurawasser",
-    "results": [],
-    "competitors": 0
+    "results": {
+      "SVAG": [1, 3, 5],
+      "MYCR": [2, 6, 14],
+      "SVM": [4, 7, 21],
+      "RSC92": [11, 15, 19],
+      "SCP": [12, 16, 20]
+    },
+    "competitors": 24
   }, {
     "name": "Sommersonnenwende",
     "results": [],
