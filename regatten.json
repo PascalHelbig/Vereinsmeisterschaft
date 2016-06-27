@@ -81,8 +81,11 @@
     "competitors": 24
   }, {
     "name": "Sommersonnenwende",
-    "results": [],
-    "competitors": 0
+    "results": {
+      "SVEG": [2, 6, 9],
+      "SVAG": [3, 4, 7]
+    },
+    "competitors": 19
   }, {
     "name": "Sommerregatta",
     "results": [],
