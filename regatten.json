@@ -88,8 +88,12 @@
     "competitors": 19
   }, {
     "name": "Sommerregatta",
-    "results": [],
-    "competitors": 0
+    "results": {
+      "SVEG": [2, 6, 11],
+      "MYCR": [4, 8, 15],
+      "SCP": [7, 13, 19]
+    },
+    "competitors": 21
   }, {
     "name": "Parzival",
     "results": [],
