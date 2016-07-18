@@ -96,8 +96,12 @@
     "competitors": 21
   }, {
     "name": "Parzival",
-    "results": [],
-    "competitors": 0
+    "results": {
+      "SVAG": [1, 6, 7],
+      "RSN": [2, 3, 8],
+      "SCZ": [4, 5, 11]
+    },
+    "competitors": 21
   }, {
     "name": "Schwielochsee",
     "results": [],
