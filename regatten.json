@@ -109,21 +109,25 @@
     },
     "competitors": 11
   }, {
-    "name": "Pokal See Ros",
-    "results": [],
-    "competitors": 0
-  }, {
     "name": "Gold Schäkel",
-    "results": [],
-    "competitors": 0
+    "results": {
+      "RSN": [1, 2, 3]
+    },
+    "competitors": 10
   }, {
     "name": "LJM MV",
-    "results": [],
-    "competitors": 0
+    "results": {
+      "SVEG": [3, 5, 10],
+      "SVM": [4, 13, 15]
+    },
+    "competitors": 19
   }, {
     "name": "Stauseepokal",
-    "results": [],
-    "competitors": 0
+    "results": {
+      "SCZ": [3, 4, 9],
+      "WSVLS": [5, 16, 17]
+    },
+    "competitors": 18
   }, {
     "name": "Kreismeister",
     "results": [],
