@@ -130,8 +130,10 @@
     "competitors": 18
   }, {
     "name": "Kreismeister",
-    "results": [],
-    "competitors": 0
+    "results": {
+      "RSN":[1, 2, 3]
+    },
+    "competitors": 11
   }, {
     "name": "CECC CZE",
     "results": [],
