@@ -140,8 +140,15 @@
     "competitors": 0
   }, {
     "name": "Waffelregatta",
-    "results": [],
-    "competitors": 0
+    "results": {
+      "SVAG": [1, 9, 10],
+      "RSN": [2, 8, 13],
+      "SCZ": [3, 6, 20],
+      "SVEG": [4, 21, 22],
+      "SVKKS": [7, 22, 26],
+      "BSVADW": [12, 27, 30]
+    },
+    "competitors": 30
   }, {
     "name": "Blaues Band",
     "results": [],
