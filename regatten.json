@@ -45,15 +45,6 @@
     "competitors": 17
   },
   {
-    "name": "Freundschaft",
-    "results": {
-      "SVEG": [1, 4, 6],
-      "SVM": [2, 5, 12],
-      "PSF": [8, 15, 16]
-    },
-    "competitors": 13
-  },
-  {
     "name": "Werlcup",
     "results": {
       "SCZ": [1, 3, 4],
