@@ -1,154 +1,110 @@
 [
   {
-    "name": "Bernstein",
+    "name": "3. WMA",
     "results": {
-      "SVEG": [1, 4, 7],
-      "SVAG": [3, 6, 9]
-    },
-    "competitors": 23
-  },
-  {
-    "name": "Oster TL",
-    "results": {
-      "SCZ": [1, 9, 15],
-      "WSVLS": [3, 14, 18],
-      "KKS": [4, 7, 20],
-      "SVM": [5, 10, 17]
-    },
-    "competitors": 20
-  },
-  {
-    "name": "Frühjahrscup",
-    "results": {
-      "SVEG": [2, 3, 4],
-      "SVM": [5, 8, 18],
-      "RSN": [7, 13, 16]
-    },
-    "competitors": 19
-  },
-  {
-    "name": "Ostsee",
-    "results": {
-      "SVEG": [1, 6, 8],
-      "RSN": [2, 5, 18],
-      "SVAG": [7, 10, 15]
+      "SCZ": [2, 12, 27],
+      "SVEGS": [3, 14, 28],
+      "SVAG": [4, 15, 22],
+      "SVKKS": [7, 13, 29]
     },
     "competitors": 31
   },
   {
     "name": "Fleesensee",
     "results": {
-      "SVEG": [1, 4, 6],
-      "SVM": [2, 5, 12],
-      "PSF": [8, 15, 16]
+      "MYCR": [1, 12, 21],
+      "RSN": [2, 3, 11],
+      "SVM": [4, 7, 23],
+      "SVEGS": [8, 13, 15],
+      "PSF": [24, 25, 26]
     },
-    "competitors": 17
+    "competitors": 26
   },
   {
-    "name": "Werlcup",
+    "name": "DYR",
     "results": {
-      "SCZ": [1, 3, 4],
-      "WSVLS": [6, 7, 8]
+      "SVEGS": [17, 21, 32],
+      "RSN": [23, 35, 38]
     },
-    "competitors": 8
+    "competitors": 40
   },
   {
-    "name": "Geier",
+    "name": "Waffelregatta",
     "results": {
-      "SVAG": [14, 18, 19],
-      "SCR": [24, 27, 33],
-      "WSVLS": [30, 31, 35]
+      "SVEGS": [1, 8, 12],
+      "RSN": [2, 7, 16],
+      "SCZ": [4, 23, 30],
+      "MYCR": [5, 10, 26],
+      "WSVLS": [18, 27, 32]
     },
-    "competitors": 37
+    "competitors": 33
+  },
+  {
+    "name": "Goldener Geier",
+    "results": {
+      "SCZ": [2, 8, 11],
+      "SCP": [4, 5, 6],
+      "WSVLS": [10, 14, 17]
+    },
+    "competitors": 26
   },
   {
     "name": "Eurawasser",
     "results": {
-      "SVAG": [1, 6, 9],
-      "RSC92": [10, 12, 14]
+      "MYCR": [5, 7, 10]
     },
-    "competitors": 17
+    "competitors": 12
   },
   {
-    "name": "Sonnenwende",
+    "name": "Sommersonnenwende",
     "results": {
-      "SVAG": [2, 5, 9],
-      "RSC92": [10, 12, 14],
-      "SVEG": [4, 8, 15],
-      "RSN": [6, 17, 22],
-      "MYCR": [14, 18, 21]
+      "SVAG": [2, 9, 10],
+      "SVEGS": [3, 6, 8],
+      "RSN": [4, 5, 24],
+      "MYCR": [14, 20, 21]
     },
-    "competitors": 22
+    "competitors": 12
   },
   {
     "name": "Sommerregatta",
     "results": {
-      "SCZ": [1, 8, 18],
-      "SVEG": [2, 7, 12],
-      "SVM": [5, 9, 22]
+      "SVAG": [2, 4, 10],
+      "SVEGS": [3, 5, 9],
+      "SCZ": [12, 16, 21]
     },
-    "competitors": 22
+    "competitors": 23
   },
   {
-    "name": "Asterix",
+    "name": "Küstencup",
     "results": {
-      "RSN": [1, 8, 9],
-      "SCZ": [2, 3, 6]
+      "SCR": [3, 4, 5]
     },
-    "competitors": 13
+    "competitors": 5
   },
   {
-    "name": "Küste",
+    "name": "Parzival",
     "results": {
-      "SVAG": [1, 2, 3]
+      "RSN": [4, 6, 7],
+      "SVAG": [8, 11, 13],
+      "SVKKS": [18, 22, 27]
     },
-    "competitors": 8
-  },
-  {
-    "name": "LJM MV",
-    "results": {
-      "SVEG": [3, 4, 5],
-      "SCR": [6, 7, 12]
-    },
-    "competitors": 14
-  },
-  {
-    "name": "Stausee",
-    "results": {
-      "BSC": [5, 13, 14]
-    },
-    "competitors": 14
-  },
-  {
-    "name": "Waffel",
-    "results": {
-      "RSN": [1, 2, 7],
-      "SCZ": [4, 8, 17],
-      "WSVLS": [16, 18, 21]
-    },
-    "competitors": 22
-  },
-  {
-    "name": "Herbst",
-    "results": {
-      "PSF": [3, 6, 7]
-    },
-    "competitors": 8
+    "competitors": 32
   },
   {
     "name": "Blaues Band",
     "results": {
-      "ASVZR": [3, 6, 11],
-      "RSC92": [4, 5, 9]
+      "SCR": [1, 3, 8],
+      "RSC92": [9, 10, 13],
+      "MYCR": [11, 12, 14]
     },
-    "competitors": 11
+    "competitors": 20
   },
   {
-    "name": "UM Open",
+    "name": "Uckermark Open",
     "results": {
-      "RSN": [2, 5, 7],
-      "SCZ": [3, 10, 14]
+      "RSN": [3, 7, 12],
+      "SCP": [5, 15, 19]
     },
-    "competitors": 14
+    "competitors": 24
   }
 ]
