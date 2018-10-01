@@ -106,5 +106,13 @@
       "SCP": [5, 15, 19]
     },
     "competitors": 24
+  },
+  {
+    "name": "Herbstregatta",
+    "results": {
+      "SVL": [3, 5, 8],
+      "PSF": [4, 6, 9]
+    },
+    "competitors": 11
   }
 ]
