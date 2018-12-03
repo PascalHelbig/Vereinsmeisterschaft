@@ -28,12 +28,13 @@ module.exports = html => {
 
       const clubsHTML = $(columns.get(2)).html();
       const helmClubLink = cheerio.load(clubsHTML.split('<br>')[0]);
+      const crewClubLink = cheerio.load(clubsHTML.split('<br>')[1]);
 
       const [helmClub, helmClubCode] = helmClubLink
         .text()
         .trim()
         .split(' / ');
-      const [crewClub, crewClubCode] = helmClubLink
+      const [crewClub, crewClubCode] = crewClubLink
         .text()
         .trim()
         .split(' / ');
