@@ -38,6 +38,8 @@ module.exports = html => {
         .trim()
         .split(' / ');
 
+      const points = parseFloat($(columns.get(3)).text(), 10) || 0;
+
       return {
         place,
         helm,
@@ -46,6 +48,7 @@ module.exports = html => {
         helmClubCode: helmClubCode || null,
         crewClub: crewClub || null,
         crewClubCode: crewClubCode || null,
+        points,
       };
     })
     .toArray()

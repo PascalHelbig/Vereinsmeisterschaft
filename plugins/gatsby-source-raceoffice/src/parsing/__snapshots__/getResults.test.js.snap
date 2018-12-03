@@ -10,6 +10,7 @@ Array [
     "helmClub": "SCZ",
     "helmClubCode": "B.122",
     "place": 2,
+    "points": 126.58,
   },
   Object {
     "crew": "Lia-Marie Sturm",
@@ -19,6 +20,7 @@ Array [
     "helmClub": "SCR",
     "helmClubCode": "MV.047",
     "place": 3,
+    "points": 123.16,
   },
   Object {
     "crew": "Kim Maje Petersen",
@@ -28,6 +30,7 @@ Array [
     "helmClub": "SCR",
     "helmClubCode": "MV.047",
     "place": 4,
+    "points": 119.74,
   },
   Object {
     "crew": "Aurel Köhler",
@@ -37,6 +40,7 @@ Array [
     "helmClub": "SCR",
     "helmClubCode": "MV.047",
     "place": 5,
+    "points": 116.32,
   },
   Object {
     "crew": "Nora Josephine Wegner-Repke",
@@ -46,6 +50,7 @@ Array [
     "helmClub": "SVAG",
     "helmClubCode": "MV.042",
     "place": 6,
+    "points": 112.89,
   },
   Object {
     "crew": "Johanna Stroh",
@@ -55,6 +60,7 @@ Array [
     "helmClub": "SCR",
     "helmClubCode": "MV.047",
     "place": 7,
+    "points": 109.47,
   },
   Object {
     "crew": "Franz Erpenbeck",
@@ -64,6 +70,7 @@ Array [
     "helmClub": "SCZ",
     "helmClubCode": "B.122",
     "place": 9,
+    "points": 102.63,
   },
   Object {
     "crew": "Fabian Helfrich",
@@ -73,6 +80,7 @@ Array [
     "helmClub": "BSC",
     "helmClubCode": "SC.005",
     "place": 10,
+    "points": 99.21,
   },
   Object {
     "crew": "Maximilian Scholle",
@@ -82,6 +90,7 @@ Array [
     "helmClub": "SVAG",
     "helmClubCode": "MV.042",
     "place": 11,
+    "points": 95.79,
   },
   Object {
     "crew": "Analena Brusch",
@@ -91,6 +100,7 @@ Array [
     "helmClub": "SCR",
     "helmClubCode": "MV.047",
     "place": 12,
+    "points": 92.37,
   },
   Object {
     "crew": "Lisa Marie Schwager",
@@ -100,6 +110,7 @@ Array [
     "helmClub": "RSV",
     "helmClubCode": "SH.056",
     "place": 13,
+    "points": 88.95,
   },
   Object {
     "crew": "Noah Never",
@@ -109,6 +120,7 @@ Array [
     "helmClub": "MYCR",
     "helmClubCode": "MV.020",
     "place": 14,
+    "points": 85.53,
   },
   Object {
     "crew": "Maxi Zielinski",
@@ -118,6 +130,7 @@ Array [
     "helmClub": "SVAG",
     "helmClubCode": "MV.042",
     "place": 15,
+    "points": 82.11,
   },
   Object {
     "crew": "Lea Vallentin",
@@ -127,6 +140,7 @@ Array [
     "helmClub": "SCP",
     "helmClubCode": "BG.012",
     "place": 16,
+    "points": 78.68,
   },
   Object {
     "crew": "Karina Winter",
@@ -136,6 +150,7 @@ Array [
     "helmClub": "SCR",
     "helmClubCode": "MV.047",
     "place": 17,
+    "points": 75.26,
   },
   Object {
     "crew": "Thessa Müller",
@@ -145,6 +160,7 @@ Array [
     "helmClub": "SCP",
     "helmClubCode": "BG.012",
     "place": 18,
+    "points": 71.84,
   },
   Object {
     "crew": "Paula Enter",
@@ -154,6 +170,7 @@ Array [
     "helmClub": "SCR",
     "helmClubCode": "MV.047",
     "place": 19,
+    "points": 68.42,
   },
   Object {
     "crew": "Muriel Urbanski",
@@ -163,6 +180,7 @@ Array [
     "helmClub": "SVEG",
     "helmClubCode": "MV.015",
     "place": 20,
+    "points": 65,
   },
   Object {
     "crew": "Annalisa Tast",
@@ -172,6 +190,7 @@ Array [
     "helmClub": "SVEG",
     "helmClubCode": "MV.015",
     "place": 21,
+    "points": 61.58,
   },
   Object {
     "crew": "Julia Peters",
@@ -181,6 +200,7 @@ Array [
     "helmClub": "SVEG",
     "helmClubCode": "MV.015",
     "place": 22,
+    "points": 58.16,
   },
   Object {
     "crew": "Etienne Baschin",
@@ -190,6 +210,7 @@ Array [
     "helmClub": "SCZ",
     "helmClubCode": "B.122",
     "place": 23,
+    "points": 54.74,
   },
   Object {
     "crew": "Lucas Maaß",
@@ -199,6 +220,7 @@ Array [
     "helmClub": "BSC",
     "helmClubCode": "SC.005",
     "place": 24,
+    "points": 51.32,
   },
   Object {
     "crew": "Margarethe Görs",
@@ -208,6 +230,7 @@ Array [
     "helmClub": "MYCR",
     "helmClubCode": "MV.020",
     "place": 26,
+    "points": 44.47,
   },
   Object {
     "crew": "Anton Schmitter",
@@ -217,6 +240,7 @@ Array [
     "helmClub": "ASVzR",
     "helmClubCode": "MV.035",
     "place": 27,
+    "points": 41.05,
   },
   Object {
     "crew": "Marla Gröschner",
@@ -226,6 +250,7 @@ Array [
     "helmClub": "RSC 92",
     "helmClubCode": "MV.055",
     "place": 28,
+    "points": 37.63,
   },
   Object {
     "crew": "Jette Zielinski",
@@ -235,6 +260,7 @@ Array [
     "helmClub": "SVAG",
     "helmClubCode": "MV.042",
     "place": 29,
+    "points": 34.21,
   },
   Object {
     "crew": "Sophie-Charlotte Gräfe",
@@ -244,6 +270,7 @@ Array [
     "helmClub": "RSC 92",
     "helmClubCode": "MV.055",
     "place": 30,
+    "points": 30.79,
   },
   Object {
     "crew": "Lucas Grapentin",
@@ -253,6 +280,7 @@ Array [
     "helmClub": "SVAG",
     "helmClubCode": "MV.042",
     "place": 31,
+    "points": 27.37,
   },
   Object {
     "crew": "Paul Westphal",
@@ -262,6 +290,7 @@ Array [
     "helmClub": "MYCR",
     "helmClubCode": "MV.020",
     "place": 32,
+    "points": 23.95,
   },
   Object {
     "crew": "Matthias Henning",
@@ -271,6 +300,7 @@ Array [
     "helmClub": "RSN",
     "helmClubCode": "BG.058",
     "place": 33,
+    "points": 20.53,
   },
   Object {
     "crew": "Fynn Sommer",
@@ -280,6 +310,7 @@ Array [
     "helmClub": "SCP",
     "helmClubCode": "BG.012",
     "place": 35,
+    "points": 13.68,
   },
   Object {
     "crew": "Wilhelm Steinhäuser",
@@ -289,6 +320,7 @@ Array [
     "helmClub": "SCZ",
     "helmClubCode": "B.122",
     "place": 36,
+    "points": 10.26,
   },
   Object {
     "crew": "Kevin Gottschalk",
@@ -298,6 +330,7 @@ Array [
     "helmClub": "RSN",
     "helmClubCode": "BG.058",
     "place": 37,
+    "points": 6.84,
   },
   Object {
     "crew": "Lukas Bormann",
@@ -307,6 +340,7 @@ Array [
     "helmClub": "RSN",
     "helmClubCode": "BG.058",
     "place": 38,
+    "points": 3.42,
   },
 ]
 `;
