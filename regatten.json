@@ -1,128 +1,46 @@
 [
   {
-    "name": "Bernstein",
+    "name": "Kyritz",
     "results": {
-      "SVAG": [4, 5, 7],
-      "SVKKS": [9, 12, 13]
+      "RSN": [1, 2, 3]
     },
-    "competitors": 19
-  },
-  {
-    "name": "Oster TL",
-    "results": {
-      "SVKKS": [5, 6, 8]
-    },
-    "competitors": 11
-  },
-  {
-    "name": "2. WMA",
-    "results": {
-      "SVAG": [4, 9, 14],
-      "ASVZR": [10, 31, 36],
-      "RSN": [16, 25, 28],
-      "RSC92": [26, 30, 32]
-    },
-    "competitors": 36
-  },
-  {
-    "name": "Flessensee",
-    "results": {
-      "SVM": [1, 5, 13],
-      "RSC92": [2, 10, 12],
-      "MYCR": [7, 14, 15]
-    },
-    "competitors": 16
-  },
-  {
-    "name": "3. WMA",
-    "results": {
-      "SVAG": [4, 9, 11],
-      "RSN": [5, 7, 18],
-      "SCZ": [13, 16, 28],
-      "SCP": [17, 21, 23],
-      "SVKKS": [19, 24, 26]
-    },
-    "competitors": 28
-  },
-  {
-    "name": "Geierswalde",
-    "results": {
-      "SCP": [5, 18, 26],
-      "SCZ": [7, 17, 27],
-      "WSVLS": [19, 22, 24]
-    },
-    "competitors": 27
-  },
-  {
-    "name": "DYR",
-    "results": {
-      "RSN": [21, 26, 32]
-    },
-    "competitors": 37
-  },
-  {
-    "name": "Nordwasser",
-    "results": {
-      "RSC92": [3, 8, 9],
-      "MYCR": [4, 6, 10]
-    },
-    "competitors": 13
-  },
-  {
-    "name": "Sommersonnenwende",
-    "results": {
-      "SVAG": [2, 7, 8]
-    },
-    "competitors": 14
-  },
-  {
-    "name": "Promotion",
-    "results": {
-      "SVEGS": [44, 66, 68],
-      "SVKKS": [49, 64, 67]
-    },
-    "competitors": 68
-  },
-  {
-    "name": "Küstencup",
-    "results": {
-      "SVAG": [2, 5, 6]
-    },
-    "competitors": 6
+    "competitors": 10
   },
   {
     "name": "Waffelregatta",
     "results": {
-      "SCZ": [1, 10, 22],
-      "SCP": [7, 11, 12],
-      "RSC92": [16, 21, 23]
+      "SVAG": [1, 10, 15],
+      "SCP": [4, 6, 7],
+      "RSC92": [9, 13, 20],
+      "SCR": [11, 12, 19]
     },
-    "competitors": 27
-  },
-  {
-    "name": "LJM MV",
-    "results": {
-      "SVAG": [2, 3, 5],
-      "SCR": [8, 13, 20],
-      "RS92": [9, 15, 16]
-    },
-    "competitors": 20
+    "competitors": 25
   },
   {
     "name": "Blaues Band",
     "results": {
-      "SVAG": [1, 5, 9],
-      "MYCR": [2, 12, 13],
-      "RSC92": [7, 10, 11]
+      "SCR": [1, 7, 11],
+      "SVAG": [2, 3, 10],
+      "SCZ": [4, 8, 23],
+      "RSC92": [5, 6, 12],
+      "MYCR": [13, 14, 15]
     },
-    "competitors": 17
+    "competitors": 24
   },
   {
-    "name": "UM Open",
+    "name": "Uckermark",
     "results": {
-      "SCZ": [4, 6, 14],
-      "SCP": [10, 11, 12]
+      "SCP": [3, 6, 13],
+      "SCZ": [4, 9, 14]
     },
-    "competitors": 19
+    "competitors": 14
+  },
+  {
+    "name": "Zitadellencup",
+    "results": {
+      "SCZ": [3, 4, 8],
+      "WGSO": [6, 9, 10]
+    },
+    "competitors": 10
   }
 ]
