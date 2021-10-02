@@ -1,46 +1,91 @@
 [
   {
-    "name": "Kyritz",
+    "name": "Nordwasser Pokal",
     "results": {
-      "RSN": [1, 2, 3]
+      "SCR": [2, 5, 7],
+      "SCZ": [3, 9, 22],
+      "MYCR": [10, 13, 15]
     },
-    "competitors": 10
+    "competitors": 22
+  },
+  {
+    "name": "Sommersonnenwende",
+    "results": {
+      "SCR": [2, 4, 11],
+      "SVAG": [5, 8, 14],
+      "MYCR": [7, 9, 10]
+    },
+    "competitors": 17
+  },
+  {
+    "name": "Sommerregatta",
+    "results": {
+      "SCR": [1, 5, 7],
+      "MYCR": [4, 6, 9]
+    },
+    "competitors": 9
+  },
+  {
+    "name": "WM",
+    "results": {
+      "MYCR": [40, 53, 55]
+    },
+    "competitors": 57
+  },
+  {
+    "name": "Küstencup",
+    "results": {
+      "SCR": [1, 2, 3],
+      "MYCR": [4, 5, 7],
+      "SVAG": [9, 10, 11]
+    },
+    "competitors": 15
+  },
+  {
+    "name": "LJM MV",
+    "results": {
+      "SCR": [2, 3, 8],
+      "MYCR": [4, 5, 6],
+      "SVAG": [7, 10, 14]
+    },
+    "competitors": 17
+  },
+  {
+    "name": "Parzivalcup",
+    "results": {
+      "RSN": [1, 5, 12],
+      "SVAG": [2, 6, 8],
+      "SCP": [3, 4, 11],
+      "SCR": [14, 15, 17]
+    },
+    "competitors": 17
   },
   {
     "name": "Waffelregatta",
     "results": {
-      "SVAG": [1, 10, 15],
-      "SCP": [4, 6, 7],
-      "RSC92": [9, 13, 20],
-      "SCR": [11, 12, 19]
+      "SVAG": [3, 13, 16],
+      "SCZ": [4, 7, 23],
+      "MYCR": [6, 8, 17],
+      "SCP": [12, 14, 25]
     },
-    "competitors": 25
+    "competitors": 27
   },
   {
     "name": "Blaues Band",
     "results": {
-      "SCR": [1, 7, 11],
-      "SVAG": [2, 3, 10],
-      "SCZ": [4, 8, 23],
-      "RSC92": [5, 6, 12],
-      "MYCR": [13, 14, 15]
+      "MYCR": [1, 2, 3],
+      "RSC92": [4, 5, 7]
     },
-    "competitors": 24
+    "competitors": 11
   },
   {
-    "name": "Uckermark",
+    "name": "UM Open",
     "results": {
-      "SCP": [3, 6, 13],
-      "SCZ": [4, 9, 14]
+      "SCZ": [2, 12, 16],
+      "SCR": [3, 7, 8],
+      "SCP": [4, 6, 15],
+      "SVAG": [5, 9, 11]
     },
-    "competitors": 14
-  },
-  {
-    "name": "Zitadellencup",
-    "results": {
-      "SCZ": [3, 4, 8],
-      "WGSO": [6, 9, 10]
-    },
-    "competitors": 10
+    "competitors": 18
   }
 ]
